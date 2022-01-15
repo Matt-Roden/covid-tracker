@@ -1,9 +1,9 @@
 import React from 'react'
-import './App.css';
+import '../App/App.css';
 
 const App = () => {
   return (
-    <div>
+    <div className='App'>
       Covid Tracker!!!!
     </div>
   )
